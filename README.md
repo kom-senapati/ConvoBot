@@ -8,7 +8,7 @@ Chat effortlessly with 🤖 using LLMWare "Phi-3-GGUF". Enjoy natural conversati
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/NYl1vM0sJvY/default.jpg)](https://youtu.be/NYl1vM0sJvY)
+[![Watch the video](https://img.youtube.com/vi/ELaOZZ4fXgc/default.jpg)](https://youtu.be/ELaOZZ4fXgc)
 
 ## Installation
 
