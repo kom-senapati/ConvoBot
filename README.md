@@ -65,8 +65,30 @@ Chat effortlessly with 🤖 using LLMWare "Phi-3-GGUF". Enjoy natural conversati
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## Built with ❤️
 
-## Try this Chat App
+### Try this Chat App
 
-Don't miss the opportunity to engage in conversations with our ConvoBot! Give it a try and experience personalized interactions like never before.
+Don't miss the opportunity to engage in conversations with our ConvoBot! Give it a try.
+
+## ✉️ Contact the author
+
+- Email: <komnoob123@gmail.com>
+- Head over to my github handle from [here](https://github.com/kom-senapati)
+
+<br>
+
+<p align="center">
+<a href="https://twitter.com/kom_senapati" target="blank">
+<img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="kom_senapati" />
+</a>
+<a href="https://www.linkedin.com/in/kom-senapati/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kom-senapati" />
+</a>
+</p>
+
+<br>
+
+<p align="center">
+   Thank you for visting this Repo <br>
+   If you like it, ⭐ it
+</p>
