@@ -6,6 +6,10 @@
 
 Chat effortlessly with 🤖 using LLMWare "Phi-3-GGUF". Enjoy natural conversations and personalized interactions.
 
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/NYl1vM0sJvY/default.jpg)](https://youtu.be/NYl1vM0sJvY)
+
 ## Installation
 
 ### 1. Download the Repository
